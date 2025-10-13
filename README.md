@@ -2,7 +2,14 @@
 
 This is a Pytorch implementation of “Simple Yet Effective Selective Imputation for Incomplete Multi-view Clustering”
 
-Run "python main.py".
+Run 
+```
+python main.py
+```
+or
+```
+python main.py --dataset 1 --missing_rate 0.5 --selection_ratio 0.5
+```
 
 ## Requirements
 
